@@ -27,5 +27,5 @@ O projeto inclui scripts que automatizam diversas tarefas, como manipulação de
 2. Instale as dependências
 ```bash
    pip install pandas pyautogui
- Garanta que o python esteja instalado.
- 
+   # Garanta que o python esteja instalado.
+
