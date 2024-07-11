@@ -23,3 +23,9 @@ O projeto inclui scripts que automatizam diversas tarefas, como manipulação de
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/Jornada_Python---Task_Automation.git
+
+2. Instale as dependências
+```bash
+   pip install pandas pyautogui
+ Garanta que o python esteja instalado.
+ 
